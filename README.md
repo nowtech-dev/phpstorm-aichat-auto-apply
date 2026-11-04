@@ -1,9 +1,13 @@
 # AI Chat: Auto Always Allow
 
+<p align="center">
+  <img src="docs/icon.png" width="160" alt="AI Chat Auto Always Allow plugin icon"/>
+</p>
+
 JetBrains IDE plugin that automatically approves sensitive actions in **AI Chat** (terminal runs, MCP/ACP agent tool permissions such as **Cursor**), by choosing **Allow always** when the chat UI offers it.
 
 **Plugin ID:** `dev.nowtech.aichat.autoapply`  
-**Vendor:** [NOW Tech](https://nowtech.dev)
+**Vendor:** [NOW Tech](https://jetbrains.nowtech.dev)
 
 ## Requirements
 
@@ -69,4 +73,4 @@ This plugin uses **internal** APIs of JetBrains AI Assistant. It may break on ID
 
 ## License
 
-[MIT](LICENSE) © [NOW Tech](https://nowtech.dev)
+[MIT](LICENSE) © [NOW Tech](https://jetbrains.nowtech.dev)

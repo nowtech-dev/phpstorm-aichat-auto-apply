@@ -1,12 +1,12 @@
 <idea-plugin>
   <id>dev.nowtech.aichat.autoapply</id>
   <name>AI Chat: Auto Always Allow</name>
-  <vendor url="https://nowtech.dev">NOW Tech</vendor>
+  <vendor url="https://jetbrains.nowtech.dev">NOW Tech</vendor>
   <description><![CDATA[
     Automatically approves sensitive actions in JetBrains AI Chat (including terminal commands and
     MCP agent tool permissions via ACP), by selecting <b>Allow always</b> when offered
     — the same as clicking that option in the chat UI.<br/><br/>
-    <a href="https://nowtech.dev"><font color="#589DF6">nowtech.dev</font></a>
+    <a href="https://jetbrains.nowtech.dev"><font color="#589DF6">jetbrains.nowtech.dev</font></a>
   ]]></description>
 
   <depends>com.intellij.modules.platform</depends>
