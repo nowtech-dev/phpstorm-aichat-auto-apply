@@ -7,7 +7,7 @@
 JetBrains IDE plugin that automatically approves sensitive actions in **AI Chat** (terminal runs, MCP/ACP agent tool permissions such as **Cursor**), by choosing **Allow always** when the chat UI offers it.
 
 **Plugin ID:** `dev.nowtech.aichat.autoapply`  
-**Vendor:** [NOW Tech](https://jetbrains.nowtech.dev)
+**Vendor:** [NOW Tech](https://phpstorm.nowtech.dev)
 
 ## Requirements
 
@@ -71,6 +71,10 @@ Logger id: `dev.nowtech.aichat.autoapply`
 
 This plugin uses **internal** APIs of JetBrains AI Assistant. It may break on IDE or AI Assistant updates. Not affiliated with JetBrains.
 
+## Support
+
+If this plugin saves you time, consider a [donation](https://donate.stripe.com/test_dRm8wObyog0J83pgdZcjS00).
+
 ## License
 
-[MIT](LICENSE) © [NOW Tech](https://jetbrains.nowtech.dev)
+[MIT](LICENSE) © [NOW Tech](https://phpstorm.nowtech.dev)

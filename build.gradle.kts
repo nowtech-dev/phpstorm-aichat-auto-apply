@@ -49,7 +49,7 @@ intellijPlatform {
     }
     vendor {
       name = "NOW Tech"
-      url = "https://jetbrains.nowtech.dev"
+      url = "https://phpstorm.nowtech.dev"
     }
   }
 }
